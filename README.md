@@ -2,7 +2,7 @@ Hi there 👋 I'm Mohammed Kassim
 
 
 - 👀 I’m interested in mobile app developer
-- 🌱 I’m currently learning Flutter,Riverpod & more❤️
+- 🌱 I’m currently learning advanced concepts of Flutter & Riverpod & more❤️
   
  📫 How to reach me mohammedkassim315@gmail.com 
  
@@ -22,3 +22,5 @@ Connect with me:
 kassim206/kassim206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+HTML5 CSS3 JavaScript React Flutter WordPress
+
