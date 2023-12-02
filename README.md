@@ -2,9 +2,8 @@ Hi 👋, I'm Mohammed Kassim
 
 
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-  
+- 🌱 I’m currently learning Flutter,Riverpod
+ 📫 How to reach me mohammedkassim315@gmail.com 
 Connect with me:
 
 <a href="https://www.linkedin.com/in/kassim206/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
