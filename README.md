@@ -3,13 +3,18 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohammed+Kassim!;" />
 </h1>
-
+<div align="center">
+    
 - 👀 I’m interested in mobile app developer
+ 
 - 🌱 I’m currently learning advanced concepts of Flutter & Riverpod & more❤️
+ 
 - ⚡ Fun fact: I love to Football. football has a way of capturing the hearts of fans worldwide ⚽🎉
   
  📫 How to reach me mohammedkassim315@gmail.com 
  
+  </div>
+  
 Connect with me:
 
 <a href="https://www.linkedin.com/in/kassim206/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
