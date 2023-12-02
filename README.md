@@ -20,7 +20,17 @@
 
   </div>
   
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
+<br/>
+<hr/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassim206&layout=compact&theme=chartreuse-dark" alt="GitHub Stats" />
