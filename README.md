@@ -1,8 +1,8 @@
-Hi 👋, I'm Mohammed Kassim
+Hi there 👋 I'm Mohammed Kassim
 
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Flutter,Riverpod
+- 👀 I’m interested in mobile app developer
+- 🌱 I’m currently learning Flutter,Riverpod & more❤️
   
  📫 How to reach me mohammedkassim315@gmail.com 
  
