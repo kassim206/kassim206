@@ -5,7 +5,7 @@
 </h1>
 <div align="center">
     
-- 👀 I’m interested in mobile app developer
+- 👀 I’m interested in mobile app development 
  
   📫 How to reach me mohammedkassim315@gmail.com
   
