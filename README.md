@@ -33,6 +33,7 @@
 <hr/>
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
