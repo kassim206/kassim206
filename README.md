@@ -45,7 +45,6 @@
   <br/>
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassim206&layout=compact&theme=chartreuse-dark" alt="GitHub Stats" />
- <img width=390 src="https://github-readme-stats-kassim206.vercel.app/api?username=kassim206&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </p>
 </div>
 
