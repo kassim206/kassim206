@@ -31,9 +31,11 @@
 
 <br/>
 <hr/>
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
+ <br>
+ 
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
