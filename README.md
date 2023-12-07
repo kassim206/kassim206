@@ -31,12 +31,6 @@
 
 <br/>
 <hr/>
- <br>
- 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kassim206/kassim206/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
