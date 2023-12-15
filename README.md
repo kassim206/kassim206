@@ -39,7 +39,6 @@
   <br/>
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassim206&layout=compact&theme=chartreuse-dark" alt="GitHub Stats" />
-   
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kassim206&theme=radical"/>
 
 </p>
